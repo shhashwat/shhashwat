@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pic-Picasso - a Saas application built with Nextjs<br><br>🌱 I’m currently learning Java Springboot, Next.js<br><br>👯 I’m looking to collaborate on a ML integrated web app<br><br>👨‍💻 You can find my projects in: https://shashwatsingh.vercel.app/<br><br>💬 Ask me about React, Javascript, Node.js , Express.js, MongoDB, Tailwind<br><br>📫 How to reach me sshashwatssingh@gmail.com<br><br>⚡ Fun fact about me: I am passionate about finding the hidden patterns.
+🔭 I’m currently working on Pic-Picasso: a Saas application built with Nextjs<br><br>🌱 I’m currently learning Java Springboot, Next.js<br><br>👯 I’m looking to collaborate on a ML integrated web app<br><br>👨‍💻 You can find my projects in: https://shashwatsingh.vercel.app/<br><br>💬 Ask me about React, Javascript, Node.js , Express.js, MongoDB, Tailwind<br><br>📫 How to reach me sshashwatssingh@gmail.com<br><br>⚡ Fun fact about me: I am passionate about finding the hidden patterns.
 
 
 ## 🌐 Socials:
