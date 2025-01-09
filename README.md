@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI powered Resume Maker<br><br>🌱 I’m currently learning Spring-Boot<br><br>👯 I’m looking to collaborate on A CRUD app<br><br>👨‍💻 My portfolio: https://shashwatsingh.vercel.app/<br><br>💬 Ask me about React, JavaScript, Node.js , Express.js, MongoDB, Tailwind<br><br>📫 How to reach me sshashwatssingh@gmail.com<br><br>⚡ Fun fact: I am passionate about finding the hidden patterns
+🔭 I’m currently working on AI powered Resume Maker.<br><br>🌱 I’m currently learning Spring-Boot<br><br>👯 I’m looking to collaborate on A CRUD app<br><br>👨‍💻 My portfolio: https://shashwatsingh.vercel.app/<br><br>💬 Ask me about React, JavaScript, Node.js , Express.js, MongoDB, Tailwind<br><br>📫 How to reach me sshashwatssingh@gmail.com<br><br>⚡ Fun fact: I am passionate about finding the hidden patterns
 
 
 ## 🌐 Socials:
