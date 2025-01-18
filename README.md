@@ -1,5 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on AI powered Resume Maker<br><br>🌱 I’m currently learning Spring-Boot<br><br>👯 I’m looking to collaborate on A CRUD app<br><br>👨‍💻 My portfolio: https://shashwatsingh.vercel.app/<br><br>💬 Ask me about React, JavaScript, Node.js , Express.js, MongoDB, Tailwind<br><br>📫 How to reach me sshashwatssingh@gmail.com<br><br>⚡ Fun fact: I am passionate about finding the hidden patterns
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&width=435&lines=Hey%2C+I+am+Shashwat!)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<table>
+  <tr>
+    <td>
+      <h1>💫 About Me:</h1>
+      <ul>
+        <li>🔭 I’m currently working on AI-powered Resume Maker</li>
+        <li>🌱 I’m currently learning Spring-Boot</li>
+        <li>👯 I’m looking to collaborate on a CRUD app</li>
+        <li>👨‍💻 My portfolio: <a href="https://shashwatsingh.vercel.app/">shashwatsingh.vercel.app</a></li>
+        <li>💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB, Tailwind</li>
+        <li>📫 How to reach me: sshashwatssingh@gmail.com</li>
+        <li>⚡ Fun fact: I am passionate about finding the hidden patterns</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFoZmltdDMzZjNqa3JsZmhwZm55NWQzazJoZTZnaGs0ZHdtYm5uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+           alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## 🌐 Socials:
