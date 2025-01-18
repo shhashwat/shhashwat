@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3000&pause=1000&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hey%2C+I+am+Shashwat!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hey%2C+I+am+Shashwat!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +11,7 @@
 <!-- Tech carousel -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Java+SpringBoot;AI%2FML+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Java+SpringBoot;AI%2FML+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
   </a>
 </div>
 
