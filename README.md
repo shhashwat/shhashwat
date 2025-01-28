@@ -11,7 +11,7 @@
 <!-- Tech carousel -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Java+SpringBoot;AI%2FML+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Fast+API;AI%2FML+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
   </a>
 </div>
 
