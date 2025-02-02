@@ -11,7 +11,7 @@
 <!-- Tech carousel -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Fast+API;AI%2FML+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Fast+API;AI%2FML+Enthusiast;Always+expanding+my+tech-stack;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,7 +46,11 @@
 <div align="center">
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shhashwat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shhashwat) [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shhashwat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29359889)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shhashwat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shhashwat)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29359889)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sshashwatssingh@gmail.com) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shhashwat) 
 <a href="https://dev.to/shhashwat">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="DEV Profile" width="30" height="20">
 </a>
@@ -60,9 +64,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shhashwat&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shhashwat&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
