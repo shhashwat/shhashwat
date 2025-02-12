@@ -76,9 +76,9 @@
     </td>
     <td>
       <div align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=2&pause=3000&color=F71111&center=true&vCenter=true&width=100&lines=Keep" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=2&pause=3000&color=9122F7FF&center=true&vCenter=true&width=100&lines=Keep" alt="Typing SVG">
         <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=503&pause=1000&color=F71111&center=true&vCenter=true&width=250&lines=Coding;Commiting;Pushing" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=503&pause=1000&color=9122F7FF&center=true&vCenter=true&width=250&lines=Coding;Commiting;Pushing" alt="Typing SVG">
       </div>
     </td>
   </tr>
