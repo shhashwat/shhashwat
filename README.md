@@ -69,18 +69,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shhashwat&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shhashwat&theme=blue-green&no-frame=false&no-bg=false&margin-w=4&column=6&title=-Reviews,-Issues,-Followers)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table>
+  <tr>
+    <td align="center">
+      <h2>✍️ Random Dev Quote</h2>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=2&pause=3000&color=F71111&center=true&vCenter=true&width=100&lines=Keep" alt="Typing SVG">
+        <br>
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=503&pause=1000&color=F71111&center=true&vCenter=true&width=250&lines=Coding;Commiting;Pushing" alt="Typing SVG">
+      </div>
+    </td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<br><br>
-<div>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=2&pause=3000&color=F71111&center=true&vCenter=true&width=100&lines=Keep" alt="Typing SVG">
-    <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=503&pause=1000&color=F71111&center=true&vCenter=true&width=250&lines=Coding;Commiting;Pushing" alt="Typing SVG">
-</div>
 </div>
