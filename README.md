@@ -67,12 +67,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shhashwat&theme=blue-green&no-frame=false&no-bg=false&margin-w=4&column=6&title=-Reviews,-Issues,-Followers)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
+<br><br>
 <table>
   <tr>
     <td align="center">
@@ -89,4 +84,8 @@
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shhashwat&theme=blue-green&no-frame=false&no-bg=false&margin-w=4&column=6&title=-Reviews,-Issues,-Followers)
 </div>
