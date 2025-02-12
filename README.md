@@ -77,8 +77,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shhashwat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<br><br>
+<div>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=2&pause=3000&color=F71111&center=true&vCenter=true&width=100&lines=Keep" alt="Typing SVG">
+    <br>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=503&pause=1000&color=F71111&center=true&vCenter=true&width=250&lines=Coding;Commiting;Pushing" alt="Typing SVG">
+</div>
 </div>
