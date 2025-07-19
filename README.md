@@ -20,10 +20,10 @@
 <table align="center">
   <tr>
     <td>
-      <h1>In a nut-shell, I'm:</h1>
+      <h1> 🥜 Nut-shell</h1>
       <ul>
-        <li>🔭 working on a NestJS + NextJS powered project</li>
-        <li>🌱 currently learning System Design</li>
+        <li>🔭 I'm working on a NestJS + NextJS powered project</li>
+        <li>🌱 I'm currently learning System Design</li>
 <!--         <li>👯 I’m looking to collaborate on a CRUD app</li> -->
         <li>👨‍💻 My portfolio: <a href="https://shashwatsingh.vercel.app/">shashwatsingh.vercel.app</a></li>
         <li>💬 Ask me about NextJS, NestJS, Laravel, SQL, Docker</li>
