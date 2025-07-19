@@ -17,18 +17,18 @@
 
 <!-- About Me -->
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <h1>💫 About Me:</h1>
+      <h1>In a nut-shell, I'm:</h1>
       <ul>
-        <li>🔭 I’m currently working on AI-powered Resume Maker</li>
-        <li>🌱 I’m currently learning Spring-Boot</li>
-        <li>👯 I’m looking to collaborate on a CRUD app</li>
+        <li>🔭 working on a NestJS + NextJS powered project</li>
+        <li>🌱 currently learning System Design</li>
+<!--         <li>👯 I’m looking to collaborate on a CRUD app</li> -->
         <li>👨‍💻 My portfolio: <a href="https://shashwatsingh.vercel.app/">shashwatsingh.vercel.app</a></li>
-        <li>💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB, Tailwind</li>
+        <li>💬 Ask me about NextJS, NestJS, Laravel, SQL, Docker</li>
         <li>📫 How to reach me: sshashwatssingh@gmail.com</li>
-        <li>⚡ Fun fact: I am passionate about finding the hidden patterns</li>
+<!--         <li>⚡ Fun fact: I am passionate about finding the hidden patterns</li> -->
       </ul>
     </td>
     <td>
