@@ -64,7 +64,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shhashwat&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,blade,scss,mako,less&v=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhashwat&theme=blue-green&hide_border=false&include_all_commits=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,blade,scss,mako,ejs,less&v=2&private=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <br><br>
