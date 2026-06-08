@@ -1,35 +1,57 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Shashwat Singh</h1>
-<h3 align="center">Fullstack Engineer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=shhashwat">
-    <img src="https://komarev.com/ghpvc/?username=shhashwat&label=Profile%20views&color=00FFFF&style=flat-square" alt="shhashwat's profile views" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <h1>🥜 Nut-shell</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<ul>
+  <li>⚙️ Fullstack engineer obsessed with scalable systems, async workflows, and infrastructure</li>
+
+  <li>🚀 Built and shipped production SaaS platforms using Next.js, NestJS, Node.js, PostgreSQL, Redis, Docker, AWS, BullMQ, and Stripe</li>
+
+  <li>🧠 Known for inheriting messy systems, stabilizing architecture, and shipping under brutal deadlines</li>
+
+  <li>🔥 Worked across multi-tenant SaaS, psychometric analytics, distributed sync systems, and real-time processing pipelines</li>
+
+  <li>📚 Currently learning distributed systems, system design, and low-level backend architecture</li>
+
+  <li>👨‍💻 Portfolio:
+    <a href="https://shashwatsingh.vercel.app/">
+      shashwatsingh.vercel.app
+    </a>
+  </li>
+
+  <li>💬 Ask me about NestJS, distributed systems, Redis, Docker, PostgreSQL, AWS, RBAC, JWT, and async architecture</li>
+
+  <li>📫 Reach me at: sshashwatssingh@gmail.com</li>
+</ul>
+<td>
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFoZmltdDMzZjNqa3JsZmhwZm55NWQzazJoZTZnaGs0ZHdtYm5uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
+    alt="Coding GIF"
+    width="300"
+    style="border-radius: 10px;"
+  />
+</td>
+
+  </tr>
+</table>
+
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> -->
+
+<hr/>
 
 ## 🧠 My Focus Areas
-- Web Development
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/shhashwat">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shhashwat&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="shhashwat's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=shhashwat&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="shhashwat's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=shhashwat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shashwat Singh's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shhashwat&theme=tokyonight&radius=10" alt="shhashwat's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
+- Backend Engineering
+- Distributed Systems
+- System Design
+- Scalable SaaS Architecture
+- Async Processing & Queues
+- Cloud & DevOps
+- Infrastructure Engineering
+- Performance Optimization
+<hr/>
 
 ## 🛠️ Languages & Tools
 
@@ -105,10 +127,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
-
