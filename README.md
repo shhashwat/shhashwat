@@ -111,18 +111,45 @@
   <a href="https://www.linkedin.com/in/shhashwat/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/shhhashwat">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter/X" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://medium.com/@shhashwat">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Medium.svg" alt="Medium" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://dev.to/shhashwat">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:sshashwatssingh@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://shashwatsingh.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
-<picture>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h2>✍️ Random Dev Quote</h2>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=2&pause=3000&color=9122F7FF&center=true&vCenter=true&width=100&lines=Keep" alt="Typing SVG">
+        <br>
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=700&size=50&duration=503&pause=1000&color=9122F7FF&center=true&vCenter=true&width=250&lines=Coding;Commiting;Pushing" alt="Typing SVG">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
