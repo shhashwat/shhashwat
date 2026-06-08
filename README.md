@@ -53,8 +53,6 @@
 - Performance Optimization
 <hr/>
 
-<hr/>
-
 ## 🛠️ Languages & Tools
 
 <table align="center">
